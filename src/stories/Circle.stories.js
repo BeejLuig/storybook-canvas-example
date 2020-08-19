@@ -1,5 +1,3 @@
-import { action } from '@storybook/addon-actions';
-import { linkTo } from '@storybook/addon-links';
 import Circle from '../components/circle'
 
 export default {

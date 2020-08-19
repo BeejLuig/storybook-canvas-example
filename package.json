@@ -4,9 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "parcel index.html",
-    "storybook": "start-storybook -p 6006",
-    "build-storybook": "build-storybook"
+    "start": "start-storybook -p 6006",
+    "build": "build-storybook"
   },
   "keywords": [],
   "author": "",
@@ -15,7 +14,6 @@
     "@babel/core": "^7.11.1",
     "@storybook/addon-actions": "^6.0.12",
     "@storybook/addon-essentials": "^6.0.12",
-    "@storybook/addon-links": "^6.0.12",
     "@storybook/html": "^6.0.12",
     "babel-loader": "^8.1.0",
     "react-is": "^16.13.1"
